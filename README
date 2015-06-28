@@ -1,0 +1,26 @@
+Name: Lijia Xie
+Clemson Email Address: lijiax@clemson.edu
+
+Project no:7 
+Project due date: Sat, Dec 6, noon
+Project description: A playable game 
+The Specs that I implemented are:
+1. Implement a playable game based on all projects during the semester. And reach a conclusion(I use a HUD to show concludsion) when people win or lose. Then press reset button to restart the game. If the phoenix catch the ball, user wins. If the phoenix's health bar runs out, user loses. 
+2. Implement AI in my game. The yellow ball will automatically evade the phoenix when distance is too close.
+3. Implement a simple menu system. The number of monsters are adjustable.
+4. A HUD to illustrate the game and some running results. The HUD will disappear after 3 seconds, and be toggled by F1.
+5. No memory leak in my game. No error or warning checked by G++ 4.6.3 and Clang 3.0. My game is robust.
+6. A README.
+7. A short movie to show my game.
+
+The Specs that I was unable to implement are: None
+
+Extras: I borrowed some sprites and two background pictures from Internet. Their sources are listed below
+monster.png from: http://untamed.wild-refuge.net/images/rpgxp/ff/bahamut.png 
+phoenix.png from: http://untamed.wild-refuge.net/images/rpgxp/ff/phoenix.png
+universe.png from: http://seamless-backgrounds.blogspot.com/2012/01/open-space-seamless-background-texture.html
+composite.png from: http://www.softicons.com/toolbar-icons/this-is-art-ii-icons-by-officinadigitale.org/space-art-iconbullet.png is drawn by myself, http://www.zooper.org/wp/old/topic/moon-phase-iconset, http://mainstaycomputing.com/top-4-methods-to-backup-your-data/, http://www.clker.com/clipart-6960.html
+Arrow_green.png from: http://www.iconspedia.com/icon/arrow-right-icon-48061.html
+Arrow_grey.png from: http://www.iconspedia.com/icon/arrow-right-icon-48061.html
+I also borrowed sound file "soundtrack.mp3" from http://pan.baidu.com/share/link?shareid=2059863923&uk=3393989443.
+

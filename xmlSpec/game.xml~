@@ -1,0 +1,86 @@
+<?xml version = "1.0"?>
+<GameData>
+<!-- screenTitle is also used to identify you and your animation. 
+     So make sure to include your name as part of the screenTitle -->
+<screenTitle>Lijiax's Space Animation</screenTitle>
+<maxStringSize>50</maxStringSize>
+
+<frameCap>60</frameCap>
+<framesAreCapped>true</framesAreCapped>
+
+<frameMax>200</frameMax>
+<username>lijiax</username>
+
+<view>
+  <width>854</width>
+  <height>480</height>
+</view>
+
+<world>
+  <width>3000</width>
+  <height>618</height>
+</world>
+
+<back>
+  <file>images/hu.png</file>
+  <red>193</red>
+  <green>205</green>
+  <blue>205</blue>
+  <factor>1</factor>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>1028</width>
+  <height>618</height>
+  <transparency>false</transparency>
+</back>
+
+<font name="font">
+  <file>font/dyslexic-bold.otf</file>
+  <size>16</size>
+  <red>255</red>
+  <green>128</green>
+  <blue>255</blue>
+  <unused>0</unused>
+</font>
+
+<spinstar>
+  <file>images/item.png</file>
+  <startLoc x="120" y="140"/>
+
+  <frames>8</frames>
+  <frameInterval>200</frameInterval>
+
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>96</width>
+  <height>96</height>
+  <speedX>200</speedX>
+  <speedY>0</speedY>
+  <transparency>true</transparency>
+</spinstar>
+
+<star>
+  <file>images/moon.png</file>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>40</width>
+  <height>40</height>
+  <startLoc x="320" y="240"/>
+  <speedX>-175</speedX>
+  <speedY>-175</speedY>
+  <transparency>true</transparency>
+</star>
+
+<greenorb>
+  <file>images/superman.png</file>
+  <srcX>0</srcX>
+  <srcY>0</srcY>
+  <width>53</width>
+  <height>50</height>
+  <startLoc x="320" y="240"/>
+  <speedX>175</speedX>
+  <speedY>175</speedY>
+  <transparency>true</transparency>
+</greenorb>
+
+</GameData>
