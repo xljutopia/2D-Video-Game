@@ -1,8 +1,5 @@
-Name: Lijia Xie
-Clemson Email Address: lijiax@clemson.edu
-
 Project no:7 
-Project due date: Sat, Dec 6, noon
+Project due date: Sat, Dec 6, noon, 2014
 Project description: A playable game 
 The Specs that I implemented are:
 1. Implement a playable game based on all projects during the semester. And reach a conclusion(I use a HUD to show concludsion) when people win or lose. Then press reset button to restart the game. If the phoenix catch the ball, user wins. If the phoenix's health bar runs out, user loses. 
